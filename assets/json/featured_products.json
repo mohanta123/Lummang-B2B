@@ -1,0 +1,57 @@
+[
+    {
+        "productId": 5,
+        "productImage": "assets/products/product_5.jpg",
+        "productTitle": "JBL Extream Speaker",
+        "price": "26.4",
+        "oldPrice": "66",
+        "offer": "60% off",
+        "uniqueId": "product5"
+    },
+    {
+        "productId": 6,
+        "productImage": "assets/products/product_6.jpg",
+        "productTitle": "Eye Glasses",
+        "price": "45",
+        "oldPrice": "100",
+        "offer": "55% off",
+        "uniqueId": "product6"
+    },
+    {
+        "productId": 7,
+        "productImage": "assets/products/product_7.jpg",
+        "productTitle": "Ladies Bag",
+        "price": "77",
+        "oldPrice": "110",
+        "offer": "30% off",
+        "uniqueId": "product7"
+        
+    },
+    {
+        "productId": 8,
+        "productImage": "assets/products/product_8.jpg",
+        "productTitle": "Sony Camera",
+        "price": "68.4",
+        "oldPrice": "120",
+        "offer": "43% off",
+        "uniqueId": "product8"
+    },
+    {
+        "productId": 9,
+        "productImage": "assets/products/product_9.jpg",
+        "productTitle": "JBL Headphone",
+        "price": "84",
+        "oldPrice": "120",
+        "offer": "30% off",
+        "uniqueId": "product9"
+    },
+    {
+        "productId": 10,
+        "productImage": "assets/products/product_10.jpg",
+        "productTitle": "Mobile Powerbank",
+        "price": "71.5",
+        "oldPrice": "110",
+        "offer": "35% off",
+        "uniqueId": "product10"
+    }
+]

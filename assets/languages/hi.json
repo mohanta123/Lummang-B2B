@@ -1,0 +1,213 @@
+{
+	"splash":{
+		"welcomeMsg": "आपका स्वागत है"
+	},
+
+	"loginPage": {
+		"exitToastString": "बाहर निकलने के लिए एक बार फिर से दबाएं",
+		"emailString" : "ईमेल",
+		"passwordString": "पासवर्ड",
+		"forgotPasswordString": "पासवर्ड भूल गए?",
+		"loginString": "लॉग इन करें",
+		"createAccountString": "खाता बनाएं"
+	},
+
+	"signupPage": {
+		"usernameString": "उपयोगकर्ता नाम",
+		"repeatPasswordString": "पासवर्ड दोहराएं"
+	},
+
+	"forgotPasswordPage": {
+		"registeredEmailString": "पंजीकृत ईमेल दर्ज करें",
+		"resetPasswordString": "पासवर्ड रीसेट"
+	},
+
+	"homePage": {
+		"exitToastString": "बाहर निकलने के लिए एक बार फिर से दबाएं",
+		"home": "घर",
+		"wishList": "इच्छा-सूची",
+		"cart": "काटॅ",
+		"account": "प्रोफ़ाइल",
+		"bagsString": "बैग",
+		"cameraString": "कैमरा",
+		"speakersString": "स्पिकर्स",
+		"watchesString": "घड़ियों",
+		"menuString": "मेन्यू",
+		"foodMenuString": "खाना",
+		"fashionMenuString": "फैशन",
+		"headphonesMenuString": "हेडफोन",
+		"computerMenuString": "कंप्यूटर",
+		"booksMenuString": "पुस्तकें",
+		"dealOfTheDayString": "आज का सौदा",
+		"categoryString": "कैटेगरी",
+		"recommendedProductsString": "संस्तुत"
+	},
+
+	"changeLanguagePage": {
+		"changeLanguageAppBarTitle": "भाषा",
+		"selectLanguage": "भाषा का चयन करें",
+		"englishString": "अंग्रेज़ी",
+		"hindiString": "हिन्दी",
+		"arabicString": "अरबी",
+		"chineseString": "चीनी",
+		"russianString": "रूसी",
+		"indonesianString": "इंडोनेशियाई",
+		"spanishString": "स्पेनिश",
+		"confirmString": "भाषा बदलना चाहते है?",
+		"sureDialogueString": "क्या आप वाकई इस भाषा सेटिंग को बदलना चाहते हैं?",
+		"closeString": "बंद करे",
+		"yesString": "हाँ"
+	},
+
+	"categoryPage": {
+		"bestForYouString": "आप के लिए सर्वश्रेष्ठ",
+		"subCategory": "उप श्रेणी",
+		"seeMoreString": "और देखें",
+		"stylishString": "स्टाइलिश",
+		"traditionalString": "परंपरागत",
+		"valueForMoneyString": "पैसे की कीमत",
+		"itemDiscountString": "ITEM छूट",
+		"itemPopularString": "लोकप्रिय आइटम",
+		"newItemString": "नई वस्तु"
+	},
+
+	"productListViewPage": {
+		"productString": "उत्पादों",
+		"itemsString": "वस्तुओं",
+		"sortByString": "इसके अनुसार क्रमबद्ध करें",
+		"sortString": "चुनना",
+		"filterString": "फ़िल्टर"
+	},
+
+	"filterPage": {
+		"filterAppBarTitleString": "फ़िल्टर",
+		"cancelButtonString": "रद्द करें",
+		"applyButtonString": "लागू करे",
+		"priceString": "कीमत",
+		"brandString": "ब्रांड",
+		"occasionString": "अवसर"
+	},
+
+	"searchPage": {
+		"searchBrandString": "ब्रांडों और उत्पादों के लिए खोज",
+		"popularString": "MYSTORE पर लोकप्रिय"
+	},
+
+	"productPage": {
+		"addToCartString": "कार्ट में डालें",
+		"addedToCartString": "'कार्ट में जोड़ा गया",
+		"buyNowString": "अभी खरीदें",
+		"allRatingString": "सभी रैटिंग",
+		"addedtoWishlistString": "इच्छा सूची में जोड़ा गया",
+		"removeFromWishlistString": "विशलिस्ट से निकाला गया",
+		"specialPriceString": "विशेष मूल्य",
+		"productDetailsString": "उत्पाद विवरण",
+		"productDescriptionString": "उत्पाद वर्णन",
+		"viewMoreString": "और देखो",
+		"similarProductsString": "इसी तरह के उत्पादों",
+		"ratingString": "रेटिंग",
+		"sizeString": "माप",
+		"tipString": "सबसे अच्छे फिट के लिए, अपने सामान्य आकार से एक आकार बड़ा खरीदें।",
+		"colorString": "रंग"
+	},
+
+	"aboutAppPage": {
+		"aboutAppAppBarTitle": "MYSTORE APP के बारे में"
+	},
+
+	"faqPage": {
+		"faqAppBarTitleString": "MYSTORE पूछे जाने वाले प्रश्न"
+	},
+
+	"deliveryPage": {
+		"appBarTitleString": "वितरण",
+		"whereShippedString": "आपके ऑर्डर किए गए आइटम कहां भेजे?",
+		"pinCodeString": "पिन कोड",
+		"localityString": "इलाका",
+		"cityString": "शहर",
+		"stateString": "राज्य",
+		"goToPaymentString": "भुगतान पर जाएं"
+	},
+
+	"paymentPage": {
+		"appBarTitleString": "भुगतान",
+		"choosePaymentMethodString": "अपनी भुगतान विधि चुनें",
+		"creditDebitCardString": "क्रेडिट / डेबिट कार्ड",
+		"cashOnDeliveryString": "डिलवरी पर नकदी",
+		"payString": "अदा करे",
+		"congratulationsString": "बधाई हो",
+		"paymentReceived": "आपका भुगतान प्राप्त हुआ।"
+	},
+
+	"myAccountPage": {
+		"confirmString": "पुष्टि करें",
+		"sureDialogueString": "क्या आप लॉग आउट करना चाहते हैं?",
+		"closeString": "बंद करे",
+		"logoutString": "लॉग आउट",
+		"editProfileString": "प्रोफ़ाइल संपादित करें",
+		"darkModeString": "डार्क मोड",
+		"changeLanguageString": "भाषा बदलो",
+		"notificationsString": "सूचनाएं",
+		"myOrdersString": "मेरे ओडर्स",
+		"accountSettingString": "खाता समायोजन",
+		"faqString": "सामान्य प्रश्न",
+		"aboutAppString": "App के बारे में",
+		"callCenterString": "कॉल सेंटर"
+	},
+
+	"accountSettingPage": {
+		"accSettingAppBarTitleString": "खाता समायोजन",
+		"accountString": "खाता",
+		"addressString": "पता",
+		"telephoneString": "टेलीफोन",
+		"emailString": "ईमेल",
+		"settingString": "स्थापना",
+		"orderNotificationsString": "ऑर्डर्स सूचनाएँ",
+		"discountNotificationsString": "डिस्काउंट अधिसूचनाएँ",
+		"creditCardString": "क्रेडिट कार्ड"
+	},
+
+	"cartPage": {
+		"soLightString": "अरे, इतना हल्का महसूस होता है!",
+		"nothingCartString": "आपके बैग में कुछ नहीं है। चलो कुछ आइटम जोड़ें।",
+		"addItemToCartString": "कार्ट में जोड़ें",
+		"deleteString": "हटाएं",
+		"itemRemoved": "आइटम निकाला गया",
+		"totalString": "टोटल",
+		"payString": "अदा करे"
+	},
+
+	"myOrderPage": {
+		"outOfDeliveryString": "डिलिवरी के लिए रवाना",
+		"shippedString": "भेज दिया",
+		"deliveredString": "पहुंचा दिया",
+		"myOrdersAppBarTitleString": "मेरे ऑर्डर्स",
+		"priceString": "कीमत"
+	},
+
+	"notification": {
+		"notificationAppBarTitleString": "मेरी अधिसूचना",
+		"noNotificationsString": "कोई सूचनाएं नहीं"
+	},
+
+	"wishlistPage": {
+		"wishListEmptyString": "विशलिस्ट खाली",
+		"saveFavouritePieceString": "अपने पसंदीदा कपड़ों के टुकड़ों को एक जगह पर रखें। अभी जोड़ें, बाद में खरीदें।",
+		"continueShoppingString": "खरीदारी जारी रखें",
+		"deleteString": "हटाएं",
+		"itemRemoved": "आइटम निकाला गया"
+	},
+
+	"callCenterPage": {
+		"callCenterAppBarTitleString": "कॉल सेंटर",
+		"happyToHalpString": "हम आपकी मदद करने के लिए खुश हैं!",
+		"chatMeString": "यदि आपको उत्पाद के बारे में शिकायत है तो मुझसे चैट करें।",
+		"chatMeButtonString": "मुझसे चैट करो"
+	},
+
+	"chatPage": {
+		"chatAppBarString": "चैट",
+		"noMessageString": "कोई संदेश नहीं",
+		"typeMessageString": "संदेश लिखें"
+	}
+}

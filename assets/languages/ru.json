@@ -1,0 +1,213 @@
+{
+	"splash":{
+		"welcomeMsg": "ДОБРО ПОЖАЛОВАТЬ В"
+	},
+
+	"loginPage": {
+		"exitToastString": "Нажмите Назад еще раз, чтобы выйти",
+		"emailString" : "Эл. адрес",
+		"passwordString": "пароль",
+		"forgotPasswordString": "ЗАБЫЛИ ПАРОЛЬ?",
+		"loginString": "АВТОРИЗОВАТЬСЯ",
+		"createAccountString": "РЕГИСТРАЦИЯ"
+	},
+
+	"signupPage": {
+		"usernameString": "имя пользователя",
+		"repeatPasswordString": "Повторите пароль"
+	},
+
+	"forgotPasswordPage": {
+		"registeredEmailString": "Введите зарегистрированный адрес электронной почты",
+		"resetPasswordString": "СБРОС ПАРОЛЯ"
+	},
+
+	"homePage": {
+		"exitToastString": "Нажмите Назад еще раз, чтобы выйти",
+		"home": "ДОМОЙ",
+		"wishList": "ИЗБРАННОГО",
+		"cart": "КОРЗИНА",
+		"account": "ПРОФИЛЬ",
+		"bagsString": "СУМКИ",
+		"cameraString": "КАМЕРЫ",
+		"speakersString": "ДИНАМИКИ",
+		"watchesString": "ЧАСЫ",
+		"menuString": "МЕНЮ",
+		"foodMenuString": "еда",
+		"fashionMenuString": "мода",
+		"headphonesMenuString": "НАУШНИКИ",
+		"computerMenuString": "КОМПЬЮТЕР",
+		"booksMenuString": "КНИГИ",
+		"dealOfTheDayString": "СДЕЛКА ДНЯ",
+		"categoryString": "КАТЕГОРИЯ",
+		"recommendedProductsString": "РЕКОМЕНДУЕМЫЕ"
+	},
+
+	"changeLanguagePage": {
+		"changeLanguageAppBarTitle": "ЯЗЫК",
+		"selectLanguage": "ВЫБЕРИТЕ ЯЗЫК",
+		"englishString": "АНГЛИЙСКИЙ",
+		"hindiString": "ХИНДИ",
+		"arabicString": "АРАБСКИЙ",
+		"chineseString": "КИТАЙСКИЙ ЯЗЫК",
+		"russianString": "РУССКИЙ",
+		"indonesianString": "ИНДОНЕЗИЙСКИЙ",
+		"spanishString": "ИСПАНСКИЙ ЯЗЫК",
+		"confirmString": "Изменить язык?",
+		"sureDialogueString": "Вы уверены, что хотите изменить эту настройку языка?",
+		"closeString": "близко",
+		"yesString": "да"
+	},
+
+	"categoryPage": {
+		"bestForYouString": "ЛУЧШЕЕ ДЛЯ ТЕБЯ",
+		"subCategory": "ПОД КАТЕГОРИЯ",
+		"seeMoreString": "Узнать больше",
+		"stylishString": "стильный",
+		"traditionalString": "традиционный",
+		"valueForMoneyString": "Цена денег",
+		"itemDiscountString": "ПУНКТ СКИДКИ",
+		"itemPopularString": "ПУНКТ ПОПУЛЯРНЫЙ",
+		"newItemString": "НОВЫЙ ПУНКТ"
+	},
+
+	"productListViewPage": {
+		"productString": "ТОВАРЫ",
+		"itemsString": "ПРЕДМЕТЫ",
+		"sortByString": "СОРТИРОВАТЬ ПО",
+		"sortString": "СОРТИРОВАТЬ",
+		"filterString": "ФИЛЬТР"
+	},
+
+	"filterPage": {
+		"filterAppBarTitleString": "ФИЛЬТР",
+		"cancelButtonString": "ОТМЕНА",
+		"applyButtonString": "ПОДАТЬ ЗАЯВЛЕНИЕ",
+		"priceString": "ЦЕНА",
+		"brandString": "клеймить",
+		"occasionString": "СЛУЧАЙ"
+	},
+
+	"searchPage": {
+		"searchBrandString": "Поиск брендов и продуктов",
+		"popularString": "ПОПУЛЯРНО НА МИСТОР"
+	},
+
+	"productPage": {
+		"addToCartString": "ДОБАВИТЬ В КОРЗИНУ",
+		"addedToCartString": "Добавлено в корзину",
+		"buyNowString": "КУПИТЬ СЕЙЧАС",
+		"allRatingString": "ВСЕ РЕЙТИНГИ",
+		"addedtoWishlistString": "Добавлено в список желаний",
+		"removeFromWishlistString": "Удалить из списка желаний",
+		"specialPriceString": "Специальная цена",
+		"productDetailsString": "ИНФОРМАЦИЯ О ПРОДУКТЕ",
+		"productDescriptionString": "ОПИСАНИЕ ТОВАРА",
+		"viewMoreString": "Посмотреть ещё",
+		"similarProductsString": "ПОХОЖИЕ ПРОДУКТЫ",
+		"ratingString": "Рейтинги",
+		"sizeString": "РАЗМЕР",
+		"tipString": "Для лучшей подгонки купите на один размер больше, чем ваш обычный размер.",
+		"colorString": "ЦВЕТ"
+	},
+
+	"aboutAppPage": {
+		"aboutAppAppBarTitle": "О ПРИЛОЖЕНИИ MYSTORE"
+	},
+
+	"faqPage": {
+		"faqAppBarTitleString": "MYSTORE FAQ"
+	},
+
+	"deliveryPage": {
+		"appBarTitleString": "ДОСТАВКА",
+		"whereShippedString": "Где ваш заказанный товар отправлен?",
+		"pinCodeString": "Пин-код",
+		"localityString": "Местонахождение",
+		"cityString": "город",
+		"stateString": "государство",
+		"goToPaymentString": "ПЕРЕЙТИ К ОПЛАТЕ"
+	},
+
+	"paymentPage": {
+		"appBarTitleString": "ОПЛАТА",
+		"choosePaymentMethodString": "Выберите метод оплаты",
+		"creditDebitCardString": "Кредитная / дебетовая карта",
+		"cashOnDeliveryString": "Оплата при доставке",
+		"payString": "платить",
+		"congratulationsString": "ПОЗДРАВЛЯЕМ",
+		"paymentReceived": "Ваш платеж получен."
+	},
+
+	"myAccountPage": {
+		"confirmString": "Подтверждение",
+		"sureDialogueString": "Вы действительно хотите выйти?",
+		"closeString": "близко",
+		"logoutString": "Выйти",
+		"editProfileString": "Редактировать профиль",
+		"darkModeString": "Темный режим",
+		"changeLanguageString": "Изменить язык",
+		"notificationsString": "Уведомления",
+		"myOrdersString": "мои заказы",
+		"accountSettingString": "Настройки аккаунта",
+		"faqString": "Вопросы-Ответы",
+		"aboutAppString": "О приложении",
+		"callCenterString": "Колл-центр"
+	},
+
+	"accountSettingPage": {
+		"accSettingAppBarTitleString": "НАСТРОЙКИ АККАУНТА",
+		"accountString": "учетная запись",
+		"addressString": "Адрес",
+		"telephoneString": "телефон",
+		"emailString": "Эл. адрес",
+		"settingString": "настройка",
+		"orderNotificationsString": "Уведомления о заказе",
+		"discountNotificationsString": "Уведомления о скидках",
+		"creditCardString": "Кредитная карта"
+	},
+
+	"cartPage": {
+		"soLightString": "Эй, это так легко!",
+		"nothingCartString": "В вашей корзине ничего нет. Давайте добавим несколько предметов.",
+		"addItemToCartString": "ДОБАВИТЬ ПУНКТ В КОРЗИНУ",
+		"deleteString": "Удалить",
+		"itemRemoved": "Предмет удален",
+		"totalString": "полный",
+		"payString": "платить"
+	},
+
+	"myOrderPage": {
+		"outOfDeliveryString": "На доставке",
+		"shippedString": "Высылаем",
+		"deliveredString": "доставлен",
+		"myOrdersAppBarTitleString": "МОИ ЗАКАЗЫ",
+		"priceString": "Цена"
+	},
+
+	"notification": {
+		"notificationAppBarTitleString": "МОИ УВЕДОМЛЕНИЯ",
+		"noNotificationsString": "Нет уведомлений"
+	},
+
+	"wishlistPage": {
+		"wishListEmptyString": "ПУСТЫЙ WISHLIST",
+		"saveFavouritePieceString": "Сохраните ваши любимые предметы одежды в одном месте. Добавьте сейчас, купите позже.",
+		"continueShoppingString": "ПРОДОЛЖИТЬ ПОКУПКИ",
+		"deleteString": "Удалить",
+		"itemRemoved": "Предмет удален"
+	},
+
+	"callCenterPage": {
+		"callCenterAppBarTitleString": "Колл-центр",
+		"happyToHalpString": "Мы рады помочь вам!",
+		"chatMeString": "Если вы жалуетесь на продукт, свяжитесь со мной.",
+		"chatMeButtonString": "НАПИШИ МНЕ"
+	},
+
+	"chatPage": {
+		"chatAppBarString": "ЧАТ",
+		"noMessageString": "Нет сообщений",
+		"typeMessageString": "Введите сообщение"
+	}
+}

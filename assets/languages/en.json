@@ -1,0 +1,213 @@
+{
+	"splash":{
+		"welcomeMsg": "WELCOME TO"
+	},
+
+	"loginPage": {
+		"exitToastString": "Press Back Once Again To Exit",
+		"emailString" : "Email",
+		"passwordString": "Password",
+		"forgotPasswordString": "FORGOT PASSWORD?",
+		"loginString": "LOGIN",
+		"createAccountString": "CREATE ACCOUNT"
+	},
+
+	"signupPage": {
+		"usernameString": "Username",
+		"repeatPasswordString": "Repeat Password"
+	},
+
+	"forgotPasswordPage": {
+		"registeredEmailString": "Enter Registered Email",
+		"resetPasswordString": "RESET PASSWORD"
+	},
+
+	"homePage": {
+		"exitToastString": "Press Back Once Again To Exit",
+		"home": "HOME",
+		"wishList": "WHISHLIST",
+		"cart": "CART",
+		"account": "PROFILE",
+		"bagsString": "BAGS",
+		"cameraString": "CAMERA",
+		"speakersString": "SPEAKERS",
+		"watchesString": "WATCHES",
+		"menuString": "MENU",
+		"foodMenuString": "FOOD",
+		"fashionMenuString": "FASHION",
+		"headphonesMenuString": "HEADPHONES",
+		"computerMenuString": "COMPUTER",
+		"booksMenuString": "BOOKS",
+		"dealOfTheDayString": "DEAL OF THE DAY",
+		"categoryString": "CATEGORY",
+		"recommendedProductsString": "RECOMMENDED"
+	},
+
+	"changeLanguagePage": {
+		"changeLanguageAppBarTitle": "LANGUAGE",
+		"selectLanguage": "SELECT LANGUAGE",
+		"englishString": "ENGLISH",
+		"hindiString": "HINDI",
+		"arabicString": "ARABIC",
+		"chineseString": "CHINESE",
+		"russianString": "RUSSIAN",
+		"indonesianString": "INDONESIAN",
+		"spanishString": "SPANISH",
+		"confirmString": "Change Language?",
+		"sureDialogueString": "Are you sure you want to change this language setting?",
+		"closeString": "Close",
+		"yesString": "Yes"
+	},
+
+	"categoryPage": {
+		"bestForYouString": "BEST FOR YOU",
+		"subCategory": "SUB CATEGORY",
+		"seeMoreString": "See More",
+		"stylishString": "Stylish",
+		"traditionalString": "Traditional",
+		"valueForMoneyString": "Value for Money",
+		"itemDiscountString": "ITEM DISCOUNT",
+		"itemPopularString": "ITEM POPULAR",
+		"newItemString": "NEW ITEM"
+	},
+
+	"productListViewPage": {
+		"productString": "PRODUCTS",
+		"itemsString": "ITEMS",
+		"sortByString": "SORT BY",
+		"sortString": "SORT",
+		"filterString": "FILTER"
+	},
+
+	"filterPage": {
+		"filterAppBarTitleString": "FILTER",
+		"cancelButtonString": "CANCEL",
+		"applyButtonString": "APPLY",
+		"priceString": "PRICE",
+		"brandString": "BRAND",
+		"occasionString": "OCCASION"
+	},
+
+	"searchPage": {
+		"searchBrandString": "Search for Brands & Products",
+		"popularString": "POPULAR ON MYSTORE"
+	},
+
+	"productPage": {
+		"addToCartString": "ADD TO CART",
+		"addedToCartString": "Added to Cart",
+		"buyNowString": "BUY NOW",
+		"allRatingString": "ALL RATING",
+		"addedtoWishlistString": "Added to Wishlist",
+		"removeFromWishlistString": "Remove from Wishlist",
+		"specialPriceString": "Special Price",
+		"productDetailsString": "PRODUCT DETAILS",
+		"productDescriptionString": "PRODUCT DESCRIPTION",
+		"viewMoreString": "View More",
+		"similarProductsString": "SIMILAR PRODUCTS",
+		"ratingString": "Ratings",
+		"sizeString": "SIZE",
+		"tipString": "For the best fit, buy one size larger than your usual size.",
+		"colorString": "COLOR"
+	},
+
+	"aboutAppPage": {
+		"aboutAppAppBarTitle": "ABOUT MYSTORE APP"
+	},
+
+	"faqPage": {
+		"faqAppBarTitleString": "MYSTORE FAQ"
+	},
+
+	"deliveryPage": {
+		"appBarTitleString": "DELIVERY",
+		"whereShippedString": "Where are your Ordered Item Shipped?",
+		"pinCodeString": "Pin Code",
+		"localityString": "Locality",
+		"cityString": "City",
+		"stateString": "State",
+		"goToPaymentString": "GO TO PAYMENT"
+	},
+
+	"paymentPage": {
+		"appBarTitleString": "PAYMENT",
+		"choosePaymentMethodString": "Choose your payment method",
+		"creditDebitCardString": "Credit / Debit Card",
+		"cashOnDeliveryString": "Cash On Delivery",
+		"payString": "PAY",
+		"congratulationsString": "CONGRATULATIONS",
+		"paymentReceived": "Your Payment Received."
+	},
+
+	"myAccountPage": {
+		"confirmString": "Confirm",
+		"sureDialogueString": "Are you Sure you want to Logout?",
+		"closeString": "Close",
+		"logoutString": "Logout",
+		"editProfileString": "Edit Profile",
+		"darkModeString": "Dark Mode",
+		"changeLanguageString": "Change Language",
+		"notificationsString": "Notifications",
+		"myOrdersString": "My Orders",
+		"accountSettingString": "Account Setting",
+		"faqString": "FAQ",
+		"aboutAppString": "About App",
+		"callCenterString": "Call Center"
+	},
+
+	"accountSettingPage": {
+		"accSettingAppBarTitleString": "ACCOUNT SETTING",
+		"accountString": "Account",
+		"addressString": "Address",
+		"telephoneString": "Telephone",
+		"emailString": "Email",
+		"settingString": "Setting",
+		"orderNotificationsString": "Order Notifications",
+		"discountNotificationsString": "Discount Notifications",
+		"creditCardString": "Credit Card"
+	},
+
+	"cartPage": {
+		"soLightString": "Hey, it feels so light!",
+		"nothingCartString": "There is nothing in your cart. Lets add some items.",
+		"addItemToCartString": "ADD ITEM TO CART",
+		"deleteString": "Delete",
+		"itemRemoved": "Item Removed",
+		"totalString": "Total",
+		"payString": "PAY"
+	},
+
+	"myOrderPage": {
+		"outOfDeliveryString": "Out for Delivery",
+		"shippedString": "Shipped",
+		"deliveredString": "Delivered",
+		"myOrdersAppBarTitleString": "MY ORDERS",
+		"priceString": "Price"
+	},
+
+	"notification": {
+		"notificationAppBarTitleString": "MY NOTIFICATIONS",
+		"noNotificationsString": "No Notifications"
+	},
+
+	"wishlistPage": {
+		"wishListEmptyString": "WISHLIST EMPTY",
+		"saveFavouritePieceString": "Save your favorite pieces of clothing in one place. Add now, buy later.",
+		"continueShoppingString": "CONTINUE SHOPPING",
+		"deleteString": "Delete",
+		"itemRemoved": "Item Removed"
+	},
+
+	"callCenterPage": {
+		"callCenterAppBarTitleString": "Call Center",
+		"happyToHalpString": "We're Happy to Help You!",
+		"chatMeString": "If you have complain about the product chat me.",
+		"chatMeButtonString": "CHAT ME"
+	},
+
+	"chatPage": {
+		"chatAppBarString": "CHAT",
+		"noMessageString": "No Messages",
+		"typeMessageString": "Type a Message"
+	}
+}

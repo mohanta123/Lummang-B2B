@@ -1,0 +1,137 @@
+name: my_store
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  carousel_pro:
+  flutter_swiper :
+
+  carousel_slider: ^4.2.1
+ # carousel_images:
+  badges:
+  font_awesome_flutter:
+  fluttertoast:
+  custom_radio:
+  flutter_rating_bar:
+  page_transition:
+  flutter_spinkit:
+  fancy_on_boarding:
+  shared_preferences:
+  provider:
+  salomon_bottom_bar:
+  custom_navigator:
+  flutter_slidable:
+  shimmer:
+  simple_animations:
+  http:
+  image_picker:
+  flutter_image_slideshow: ^0.1.2
+  image_gallery_saver:
+  dio:
+  tabler_icons:
+  eva_icons_flutter:
+  path_provider:
+  animated_splash_screen:
+  flutter_profile_picture:
+  like_button:
+  pinput:
+  mime:
+  http_parser:
+  otp_autofill:
+  sliver_tools:
+  animate_do:
+  select_form_field:
+  im_stepper:
+  google_fonts:
+  flutter_badged:
+  selectable_list:
+  easy_stepper:
+  fade_shimmer:
+  webview_flutter:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.10.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/play_store_512.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "path/to/image.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "path/to/image.png"
+    icon_size: 48
+module:
+  androidX: true
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/languages/
+    - assets/home_slider/
+    - assets/json/
+    - assets/products/
+    - assets/logo.png
+    - assets/user_profile/ 
+    - assets/country_flag/
+    - assets/payment_icon/ 
+  fonts:
+    - family: Open Sans
+      fonts:
+        - asset: fonts/opensans/OpenSans-Bold.ttf
+        - asset: fonts/opensans/OpenSans-BoldItalic.ttf
+        - asset: fonts/opensans/OpenSans-ExtraBold.ttf
+        - asset: fonts/opensans/OpenSans-ExtraBoldItalic.ttf
+        - asset:  fonts/opensans/OpenSans-Italic.ttf
+        - asset: fonts/opensans/OpenSans-Light.ttf
+        - asset: fonts/opensans/OpenSans-LightItalic.ttf
+        - asset: fonts/opensans/OpenSans-Medium.ttf
+        - asset: fonts/opensans/OpenSans-MediumItalic.ttf
+        - asset: fonts/opensans/OpenSans-Regular.ttf
+        - asset: fonts/opensans/OpenSans-SemiBold.ttf
+        - asset: fonts/opensans/OpenSans-SemiBoldItalic.ttf
+    - family: Inter
+      fonts:
+        - asset: fonts/inter/Inter-Black.ttf
+        - asset: fonts/inter/Inter-Bold.ttf
+        - asset: fonts/inter/Inter-ExtraBold.ttf
+        - asset: fonts/inter/Inter-ExtraLight.ttf
+        - asset: fonts/inter/Inter-Light.ttf
+        - asset: fonts/inter/Inter-Medium.ttf
+        - asset: fonts/inter/Inter-Regular.ttf
+        - asset: fonts/inter/Inter-SemiBold.ttf
+        - asset: fonts/inter/Inter-Thin.ttf

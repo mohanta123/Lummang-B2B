@@ -1,0 +1,213 @@
+{
+	"splash":{
+		"welcomeMsg": "SELAMAT DATANG DI"
+	},
+
+	"loginPage": {
+		"exitToastString": "Tekan Kembali Sekali Lagi Untuk Keluar",
+		"emailString" : "Surel",
+		"passwordString": "Kata sandi",
+		"forgotPasswordString": "TIDAK INGAT KATA SANDI?",
+		"loginString": "GABUNG",
+		"createAccountString": "BUAT AKUN"
+	},
+
+	"signupPage": {
+		"usernameString": "Nama pengguna",
+		"repeatPasswordString": "Ulangi kata kunci"
+	},
+
+	"forgotPasswordPage": {
+		"registeredEmailString": "Masukkan Email Terdaftar",
+		"resetPasswordString": "RESET PASSWORD"
+	},
+
+	"homePage": {
+		"exitToastString": "Tekan Kembali Sekali Lagi Untuk Keluar",
+		"home": "RUMAH",
+		"wishList": "WHISHLIST",
+		"cart": "GEROBAK",
+		"account": "PROFIL",
+		"bagsString": "TAS",
+		"cameraString": "KAMERA",
+		"speakersString": "PEMBICARA",
+		"watchesString": "MENONTON",
+		"menuString": "TIDAK BISA",
+		"foodMenuString": "MAKANAN",
+		"fashionMenuString": "MODE",
+		"headphonesMenuString": "HEADPHONE",
+		"computerMenuString": "KOMPUTER",
+		"booksMenuString": "BUKU",
+		"dealOfTheDayString": "PROMO HARI INI",
+		"categoryString": "KATEGORI",
+		"recommendedProductsString": "DIREKOMENDASIKAN"
+	},
+
+	"changeLanguagePage": {
+		"changeLanguageAppBarTitle": "BAHASA",
+		"selectLanguage": "PILI BAHASA",
+		"englishString": "Inggris",
+		"hindiString": "Hindi",
+		"arabicString": "Arab",
+		"chineseString": "Cina",
+		"russianString": "RUSIA",
+		"indonesianString": "bahasa Indonesia",
+		"spanishString": "ORANG SPANYOL",
+		"confirmString": "Ganti BAHASA?",
+		"sureDialogueString": "Anda yakin ingin mengubah pengaturan bahasa ini?",
+		"closeString": "Menutup",
+		"yesString": "Iya"
+	},
+
+	"categoryPage": {
+		"bestForYouString": "YANG TERBAIK UNTUKMU",
+		"subCategory": "KATEGORI SUB",
+		"seeMoreString": "Lihat Lebih Banyak",
+		"stylishString": "Bergaya",
+		"traditionalString": "Tradisional",
+		"valueForMoneyString": "Nilai untuk Uang",
+		"itemDiscountString": "DISKON ITEM",
+		"itemPopularString": "ITEM POPULER",
+		"newItemString": "BARANG BARU"
+	},
+
+	"productListViewPage": {
+		"productString": "PRODUK",
+		"itemsString": "ITEM",
+		"sortByString": "SORTIR DENGAN",
+		"sortString": "MENYORTIR",
+		"filterString": "SARING"
+	},
+
+	"filterPage": {
+		"filterAppBarTitleString": "SARING",
+		"cancelButtonString": "MEMBATALKAN",
+		"applyButtonString": "MENERAPKAN",
+		"priceString": "HARGA",
+		"brandString": "MEREK",
+		"occasionString": "KESEMPATAN"
+	},
+
+	"searchPage": {
+		"searchBrandString": "Cari Merek & Produk",
+		"popularString": "POPULER DI MYSTORE"
+	},
+
+	"productPage": {
+		"addToCartString": "MASUKKAN KE KERANJANG",
+		"addedToCartString": "Ditambahkan ke Troli",
+		"buyNowString": "BELI SEKARANG",
+		"allRatingString": "SEMUA PERINGKAT",
+		"addedtoWishlistString": "Ditambahkan ke Wishlist",
+		"removeFromWishlistString": "Dihapus dari Wishlist",
+		"specialPriceString": "Harga spesial",
+		"productDetailsString": "RINCIAN PRODUK",
+		"productDescriptionString": "DESKRIPSI PRODUK",
+		"viewMoreString": "Lihat Lebih Banyak",
+		"similarProductsString": "PRODUK SEJENIS",
+		"ratingString": "Peringkat",
+		"sizeString": "UKURAN",
+		"tipString": "Untuk yang paling pas, beli satu ukuran lebih besar dari ukuran biasanya.",
+		"colorString": "WARNA"
+	},
+
+	"aboutAppPage": {
+		"aboutAppAppBarTitle": "TENTANG APP MYSTORE"
+	},
+
+	"faqPage": {
+		"faqAppBarTitleString": "FAQ MYSTORE"
+	},
+
+	"deliveryPage": {
+		"appBarTitleString": "PENGIRIMAN",
+		"whereShippedString": "Di mana barang pesanan Anda dikirim?",
+		"pinCodeString": "Kode PIN",
+		"localityString": "Lokalitas",
+		"cityString": "Kota",
+		"stateString": "Negara",
+		"goToPaymentString": "PERGI KE PEMBAYARAN"
+	},
+
+	"paymentPage": {
+		"appBarTitleString": "PEMBAYARAN",
+		"choosePaymentMethodString": "Pilih metode pembayaran Anda",
+		"creditDebitCardString": "Kartu Kredit / Debit",
+		"cashOnDeliveryString": "Bayar di tempat",
+		"payString": "MEMBAYAR",
+		"congratulationsString": "SELAMAT",
+		"paymentReceived": "Pembayaran Anda Diterima."
+	},
+
+	"myAccountPage": {
+		"confirmString": "Konfirmasi",
+		"sureDialogueString": "Anda yakin ingin keluar?",
+		"closeString": "Menutup",
+		"logoutString": "Keluar",
+		"editProfileString": "Sunting profil",
+		"darkModeString": "Mode Gelap",
+		"changeLanguageString": "Ganti BAHASA",
+		"notificationsString": "Notifikasi",
+		"myOrdersString": "Pesananku",
+		"accountSettingString": "Pengaturan akun",
+		"faqString": "Faq",
+		"aboutAppString": "Tentang Aplikasi",
+		"callCenterString": "Call Center"
+	},
+
+	"accountSettingPage": {
+		"accSettingAppBarTitleString": "PENGATURAN AKUN",
+		"accountString": "Akun",
+		"addressString": "Alamat",
+		"telephoneString": "Telepon",
+		"emailString": "Surel",
+		"settingString": "Pengaturan",
+		"orderNotificationsString": "Pemberitahuan Pemesanan",
+		"discountNotificationsString": "Pemberitahuan Diskon",
+		"creditCardString": "Kartu kredit"
+	},
+
+	"cartPage": {
+		"soLightString": "Hei, rasanya sangat ringan!",
+		"nothingCartString": "Tidak ada apa pun di tas Anda. Mari kita tambahkan beberapa item.",
+		"addItemToCartString": "Tambahkan item ke keranjang",
+		"deleteString": "Menghapus",
+		"itemRemoved": "Barang Dihapus",
+		"totalString": "Total",
+		"payString": "MEMBAYAR"
+	},
+
+	"myOrderPage": {
+		"outOfDeliveryString": "Keluar untuk Pengiriman",
+		"shippedString": "Dikirim",
+		"deliveredString": "Disampaikan",
+		"myOrdersAppBarTitleString": "PESANANKU",
+		"priceString": "Harga"
+	},
+
+	"notification": {
+		"notificationAppBarTitleString": "PEMBERITAHUAN SAYA",
+		"noNotificationsString": "Tidak ada pemberitahuan"
+	},
+
+	"wishlistPage": {
+		"wishListEmptyString": "WISHLIST KOSONG",
+		"saveFavouritePieceString": "Simpan pakaian favorit Anda di satu tempat. Tambahkan sekarang, beli nanti.",
+		"continueShoppingString": "LANJUTKAN BELANJA",
+		"deleteString": "Menghapus",
+		"itemRemoved": "Barang Dihapus"
+	},
+
+	"callCenterPage": {
+		"callCenterAppBarTitleString": "Call Center",
+		"happyToHalpString": "Kami Senang Membantu Anda!",
+		"chatMeString": "Jika Anda mengeluh tentang produk, obrolan saya.",
+		"chatMeButtonString": "CHAT SAYA"
+	},
+
+	"chatPage": {
+		"chatAppBarString": "OBROLAN",
+		"noMessageString": "Tidak ada pesan",
+		"typeMessageString": "Ketik pesan"
+	}
+}

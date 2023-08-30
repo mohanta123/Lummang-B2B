@@ -1,0 +1,213 @@
+{
+	"splash":{
+		"welcomeMsg": "مرحبا بك في"
+	},
+
+	"loginPage": {
+		"exitToastString": "اضغط مرة أخرى للخروج",
+		"emailString" : "البريد الإلكتروني",
+		"passwordString": "كلمه السر",
+		"forgotPasswordString": "هل نسيت كلمة المرور؟",
+		"loginString": "تسجيل الدخول",
+		"createAccountString": "إنشاء حساب"
+	},
+
+	"signupPage": {
+		"usernameString": "اسم المستخدم",
+		"repeatPasswordString": "اعد كلمة السر"
+	},
+
+	"forgotPasswordPage": {
+		"registeredEmailString": "أدخل البريد الإلكتروني المسجل",
+		"resetPasswordString": "إعادة تعيين كلمة المرور"
+	},
+
+	"homePage": {
+		"exitToastString": "اضغط مرة أخرى للخروج",
+		"home": "منزل",
+		"wishList": "قائمة الرغبات",
+		"cart": "كاريه",
+		"account": "الملف الشخصي",
+		"bagsString": "أكياس",
+		"cameraString": "الة تصوير",
+		"speakersString": "المتحدث",
+		"watchesString": "ساعات",
+		"menuString": "قائمة طعام",
+		"foodMenuString": "طعام",
+		"fashionMenuString": "موضه",
+		"headphonesMenuString": "سماعات الرأس",
+		"computerMenuString": "الحاسوب",
+		"booksMenuString": "كتب",
+		"dealOfTheDayString": "صفقة اليوم",
+		"categoryString": "الفئة",
+		"recommendedProductsString": "موصى به"
+	},
+
+	"changeLanguagePage": {
+		"changeLanguageAppBarTitle": "لغة",
+		"selectLanguage": "اختار اللغة",
+		"englishString": "الإنجليزية",
+		"hindiString": "الهندية",
+		"arabicString": "عربى",
+		"chineseString": "صينى",
+		"russianString": "الروسية",
+		"indonesianString": "الأندونيسية",
+		"spanishString": "الأسبانية",
+		"confirmString": "تغيير اللغة؟",
+		"sureDialogueString": "هل أنت متأكد أنك تريد تغيير إعداد اللغة هذا؟",
+		"closeString": "قريب",
+		"yesString": "نعم"
+	},
+
+	"categoryPage": {
+		"bestForYouString": "الأفضل لك",
+		"subCategory": "تصنيف فرعي",
+		"seeMoreString": "شاهد المزيد",
+		"stylishString": "أنيق",
+		"traditionalString": "تقليدي",
+		"valueForMoneyString": "قيمة المال",
+		"itemDiscountString": "خصم البند",
+		"itemPopularString": "البند الشعبي",
+		"newItemString": "عنصر جديد"
+	},
+
+	"productListViewPage": {
+		"productString": "منتجات",
+		"itemsString": "العناصر",
+		"sortByString": "ترتيب حسب",
+		"sortString": "فرز",
+		"filterString": "منقي"
+	},
+
+	"filterPage": {
+		"filterAppBarTitleString": "منقي",
+		"cancelButtonString": "إلغاء",
+		"applyButtonString": "تطبيق",
+		"priceString": "السعر",
+		"brandString": "وسم",
+		"occasionString": "مناسبات"
+	},
+
+	"searchPage": {
+		"searchBrandString": "ابحث عن الماركات والمنتجات",
+		"popularString": "شعبية على MYSTORE"
+	},
+
+	"productPage": {
+		"addToCartString": "أضف إلى السلة",
+		"addedToCartString": "تمت الإضافة إلى سلة التسوق",
+		"buyNowString": "اشتري الآن",
+		"allRatingString": "كل تقييم",
+		"addedtoWishlistString": "أضيف لقائمة الأماني",
+		"removeFromWishlistString": "تمت إزالته من قائمة الرغبات",
+		"specialPriceString": "سعر خاص",
+		"productDetailsString": "تفاصيل المنتج",
+		"productDescriptionString": "وصف المنتج",
+		"viewMoreString": "عرض المزيد",
+		"similarProductsString": "منتجات مماثلة",
+		"ratingString": "التقييمات",
+		"sizeString": "بحجم",
+		"tipString": "للحصول على أفضل مقاس ، قم بشراء مقاس واحد أكبر من الحجم المعتاد.",
+		"colorString": "اللون"
+	},
+
+	"aboutAppPage": {
+		"aboutAppAppBarTitle": "حول تطبيق MYSTORE"
+	},
+
+	"faqPage": {
+		"faqAppBarTitleString": "الأسئلة المتداولة حول MYSTORE"
+	},
+
+	"deliveryPage": {
+		"appBarTitleString": "توصيل",
+		"whereShippedString": "أين يتم شحن العنصر المطلوب؟",
+		"pinCodeString": "الرقم السري",
+		"localityString": "محلة",
+		"cityString": "مدينة",
+		"stateString": "حالة",
+		"goToPaymentString": "انتقل إلى الدفع"
+	},
+
+	"paymentPage": {
+		"appBarTitleString": "دفع",
+		"choosePaymentMethodString": "اختر طريقتك في الدفع",
+		"creditDebitCardString": "بطاقة الائتمان / الخصم",
+		"cashOnDeliveryString": "الدفع عند الاستلام",
+		"payString": "دفع",
+		"congratulationsString": "تهانينا",
+		"paymentReceived": "تلقى دفعتك."
+	},
+
+	"myAccountPage": {
+		"confirmString": "تؤكد",
+		"sureDialogueString": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+		"closeString": "قريب",
+		"logoutString": "تسجيل خروج",
+		"editProfileString": "تعديل الملف الشخصي",
+		"darkModeString": "الوضع الداكن",
+		"changeLanguageString": "تغيير اللغة",
+		"notificationsString": "إشعارات",
+		"myOrdersString": "طلباتي",
+		"accountSettingString": "إعدادات الحساب",
+		"faqString": "التعليمات",
+		"aboutAppString": "عن التطبيق",
+		"callCenterString": "مركز الاتصال"
+	},
+
+	"accountSettingPage": {
+		"accSettingAppBarTitleString": "إعدادات الحساب",
+		"accountString": "الحساب",
+		"addressString": "عنوان",
+		"telephoneString": "هاتف",
+		"emailString": "البريد الإلكتروني",
+		"settingString": "ضبط",
+		"orderNotificationsString": "إخطارات الطلب",
+		"discountNotificationsString": "إخطارات الخصم",
+		"creditCardString": "بطاقة الائتمان"
+	},
+
+	"cartPage": {
+		"soLightString": "مهلا ، إنه خفيف جدا!",
+		"nothingCartString": "لا يوجد شيء في حقيبتك. دعنا نضيف بعض العناصر.",
+		"addItemToCartString": "أضف البند إلى السلة",
+		"deleteString": "حذف",
+		"itemRemoved": "تمت إزالة العنصر",
+		"totalString": "مجموع",
+		"payString": "دفع"
+	},
+
+	"myOrderPage": {
+		"outOfDeliveryString": "خارج للتوصيل",
+		"shippedString": "شحنها",
+		"deliveredString": "تم التوصيل",
+		"myOrdersAppBarTitleString": "طلباتي",
+		"priceString": "السعر"
+	},
+
+	"notification": {
+		"notificationAppBarTitleString": "الإشعارات الخاصة بي",
+		"noNotificationsString": "لا إشعارات"
+	},
+
+	"wishlistPage": {
+		"wishListEmptyString": "قائمة رغباتي",
+		"saveFavouritePieceString": "احفظ قطع ملابسك المفضلة في مكان واحد. أضف الآن ، اشترِ لاحقًا.",
+		"continueShoppingString": "مواصلة التسوق",
+		"deleteString": "حذف",
+		"itemRemoved": "تمت إزالة العنصر"
+	},
+
+	"callCenterPage": {
+		"callCenterAppBarTitleString": "مركز الاتصال",
+		"happyToHalpString": "نحن سعداء لمساعدتك!",
+		"chatMeString": "إذا كنت تشكو من المنتج الدردشة لي.",
+		"chatMeButtonString": "دردش معي"
+	},
+
+	"chatPage": {
+		"chatAppBarString": "دردشة",
+		"noMessageString": "لا رسائل",
+		"typeMessageString": "اكتب رسالة"
+	}
+}

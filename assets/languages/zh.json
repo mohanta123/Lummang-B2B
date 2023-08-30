@@ -1,0 +1,213 @@
+{
+	"splash":{
+		"welcomeMsg": "欢迎来到"
+	},
+
+	"loginPage": {
+		"exitToastString": "再按一次返回退出",
+		"emailString" : "电子邮件",
+		"passwordString": "密码",
+		"forgotPasswordString": "忘记密码？",
+		"loginString": "登录",
+		"createAccountString": "创建帐号"
+	},
+
+	"signupPage": {
+		"usernameString": "用户名",
+		"repeatPasswordString": "重复输入密码"
+	},
+
+	"forgotPasswordPage": {
+		"registeredEmailString": "输入注册电子邮件",
+		"resetPasswordString": "重设密码"
+	},
+
+	"homePage": {
+		"exitToastString": "再按一次返回退出",
+		"home": "家",
+		"wishList": "愿望清单",
+		"cart": "大车",
+		"account": "轮廓",
+		"bagsString": "包袋",
+		"cameraString": "相机",
+		"speakersString": "讲者",
+		"watchesString": "手表",
+		"menuString": "菜单",
+		"foodMenuString": "餐饮",
+		"fashionMenuString": "时尚",
+		"headphonesMenuString": "耳机",
+		"computerMenuString": "电脑",
+		"booksMenuString": "图书",
+		"dealOfTheDayString": "今天的交易",
+		"categoryString": "类别",
+		"recommendedProductsString": "推荐的"
+	},
+
+	"changeLanguagePage": {
+		"changeLanguageAppBarTitle": "语言",
+		"selectLanguage": "选择语言",
+		"englishString": "英语",
+		"hindiString": "印地语",
+		"arabicString": "阿拉伯",
+		"chineseString": "中文",
+		"russianString": "俄語",
+		"indonesianString": "印度尼西亚",
+		"spanishString": "西班牙文",
+		"confirmString": "改变语言？",
+		"sureDialogueString": "您确定要更改此语言设置吗？",
+		"closeString": "关",
+		"yesString": "是"
+	},
+
+	"categoryPage": {
+		"bestForYouString": "最适合你",
+		"subCategory": "子类别",
+		"seeMoreString": "查看更多",
+		"stylishString": "时尚的",
+		"traditionalString": "传统的",
+		"valueForMoneyString": "物有所值",
+		"itemDiscountString": "项目折扣",
+		"itemPopularString": "热门商品",
+		"newItemString": "新物品"
+	},
+
+	"productListViewPage": {
+		"productString": "产品展示",
+		"itemsString": "项目",
+		"sortByString": "排序方式",
+		"sortString": "分类",
+		"filterString": "过滤"
+	},
+
+	"filterPage": {
+		"filterAppBarTitleString": "过滤",
+		"cancelButtonString": "取消",
+		"applyButtonString": "应用",
+		"priceString": "价钱",
+		"brandString": "牌",
+		"occasionString": "场合"
+	},
+
+	"searchPage": {
+		"searchBrandString": "搜索品牌和产品",
+		"popularString": "热门购物车"
+	},
+
+	"productPage": {
+		"addToCartString": "添加到购物车",
+		"addedToCartString": "已加入购物车",
+		"buyNowString": "立即购买",
+		"allRatingString": "所有评分",
+		"addedtoWishlistString": "添加到收藏",
+		"removeFromWishlistString": "从心愿单中删除",
+		"specialPriceString": "特价",
+		"productDetailsString": "产品详情",
+		"productDescriptionString": "产品描述",
+		"viewMoreString": "查看更多",
+		"similarProductsString": "相似产品",
+		"ratingString": "等级",
+		"sizeString": "尺寸",
+		"tipString": "为了获得最佳配合，请购买比平时大的尺码。",
+		"colorString": "颜色"
+	},
+
+	"aboutAppPage": {
+		"aboutAppAppBarTitle": "MYSTORE APP"
+	},
+
+	"faqPage": {
+		"faqAppBarTitleString": "MYSTORE常见问题"
+	},
+
+	"deliveryPage": {
+		"appBarTitleString": "交货",
+		"whereShippedString": "您订购的物品运往哪里？",
+		"pinCodeString": "PIN码",
+		"localityString": "地区性",
+		"cityString": "市",
+		"stateString": "州",
+		"goToPaymentString": "去付款"
+	},
+
+	"paymentPage": {
+		"appBarTitleString": "付款",
+		"choosePaymentMethodString": "选择你的支付方法",
+		"creditDebitCardString": "信用卡/借记卡",
+		"cashOnDeliveryString": "货到付款",
+		"payString": "工资",
+		"congratulationsString": "恭喜",
+		"paymentReceived": "您的付款已收到。"
+	},
+
+	"myAccountPage": {
+		"confirmString": "确认",
+		"sureDialogueString": "您确定要注销吗？",
+		"closeString": "关",
+		"logoutString": "登出",
+		"editProfileString": "编辑个人资料",
+		"darkModeString": "暗模式",
+		"changeLanguageString": "改变语言",
+		"notificationsString": "通知事项",
+		"myOrdersString": "我的订单",
+		"accountSettingString": "账户设置",
+		"faqString": "常问问题",
+		"aboutAppString": "关于App",
+		"callCenterString": "呼叫中心"
+	},
+
+	"accountSettingPage": {
+		"accSettingAppBarTitleString": "账户设置",
+		"accountString": "帐户",
+		"addressString": "地址",
+		"telephoneString": "电话",
+		"emailString": "电子邮件",
+		"settingString": "设置",
+		"orderNotificationsString": "订单通知",
+		"discountNotificationsString": "折扣通知",
+		"creditCardString": "信用卡"
+	},
+
+	"cartPage": {
+		"soLightString": "嘿，感觉太轻了！",
+		"nothingCartString": "你的包里什么都没有。 让我们添加一些项目。",
+		"addItemToCartString": "加入购物车",
+		"deleteString": "删除",
+		"itemRemoved": "项目已删除",
+		"totalString": "总",
+		"payString": "工资"
+	},
+
+	"myOrderPage": {
+		"outOfDeliveryString": "外送",
+		"shippedString": "已出货",
+		"deliveredString": "已交付",
+		"myOrdersAppBarTitleString": "我的订单",
+		"priceString": "价钱"
+	},
+
+	"notification": {
+		"notificationAppBarTitleString": "我的通知",
+		"noNotificationsString": "没有通知"
+	},
+
+	"wishlistPage": {
+		"wishListEmptyString": "愿望清单空",
+		"saveFavouritePieceString": "将您喜欢的衣服保存在一个地方。 立即添加，以后购买。",
+		"continueShoppingString": "继续购物",
+		"deleteString": "删除",
+		"itemRemoved": "项目已删除"
+	},
+
+	"callCenterPage": {
+		"callCenterAppBarTitleString": "呼叫中心",
+		"happyToHalpString": "我们很乐意为您服务！",
+		"chatMeString": "如果您有产品投诉，请与我联系。",
+		"chatMeButtonString": "聊天我"
+	},
+
+	"chatPage": {
+		"chatAppBarString": "聊天",
+		"noMessageString": "没有讯息",
+		"typeMessageString": "输入讯息"
+	}
+}

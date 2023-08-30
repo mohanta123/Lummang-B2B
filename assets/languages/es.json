@@ -1,0 +1,213 @@
+{
+	"splash":{
+		"welcomeMsg": "BIENVENIDO A"
+	},
+
+	"loginPage": {
+		"exitToastString": "Presione Atrás una vez más para salir",
+		"emailString" : "Email",
+		"passwordString": "Contraseña",
+		"forgotPasswordString": "¿SE TE OLVIDÓ TU CONTRASEÑA?",
+		"loginString": "INICIAR SESIÓN",
+		"createAccountString": "CREAR UNA CUENTA"
+	},
+
+	"signupPage": {
+		"usernameString": "Nombre de usuario",
+		"repeatPasswordString": "Repite la contraseña"
+	},
+
+	"forgotPasswordPage": {
+		"registeredEmailString": "Ingrese el correo electrónico registrado",
+		"resetPasswordString": "RESTABLECER LA CONTRASEÑA"
+	},
+
+	"homePage": {
+		"exitToastString": "Presione Atrás una vez más para salir",
+		"home": "CASA",
+		"wishList": "LISTA DE DESEOS",
+		"cart": "CARRO",
+		"account": "PERFIL",
+		"bagsString": "PANTALÓN",
+		"cameraString": "CÁMARA",
+		"speakersString": "ALTAVOCES",
+		"watchesString": "RELOJES",
+		"menuString": "MENÚ",
+		"foodMenuString": "COMIDA",
+		"fashionMenuString": "MODA",
+		"headphonesMenuString": "AURICULARES",
+		"computerMenuString": "COMPUTADORA",
+		"booksMenuString": "LIBROS",
+		"dealOfTheDayString": "OFERTA DEL DÍA",
+		"categoryString": "CATEGORÍA",
+		"recommendedProductsString": "RECOMENDADO"
+	},
+
+	"changeLanguagePage": {
+		"changeLanguageAppBarTitle": "IDIOMA",
+		"selectLanguage": "SELECCIONE EL IDIOMA",
+		"englishString": "INGLÉS",
+		"hindiString": "HINDI",
+		"arabicString": "ARÁBICA",
+		"chineseString": "CHINO",
+		"russianString": "RUSO",
+		"indonesianString": "INDONESIO",
+		"spanishString": "ESPAÑOL",
+		"confirmString": "¿Cambiar idioma?",
+		"sureDialogueString": "¿Está seguro de que desea cambiar esta configuración de idioma?",
+		"closeString": "Cerca",
+		"yesString": "si"
+	},
+
+	"categoryPage": {
+		"bestForYouString": "Lo mejor para ti",
+		"subCategory": "SUB CATEGORIA",
+		"seeMoreString": "Ver más",
+		"stylishString": "Elegante",
+		"traditionalString": "Tradicional",
+		"valueForMoneyString": "Valor por su dinero",
+		"itemDiscountString": "DESCUENTO DEL ARTÍCULO",
+		"itemPopularString": "ARTÍCULO POPULAR",
+		"newItemString": "NUEVO ARTÍCULO"
+	},
+
+	"productListViewPage": {
+		"productString": "PRODUCTOS",
+		"itemsString": "ARTÍCULOS",
+		"sortByString": "ORDENAR POR",
+		"sortString": "ORDENAR",
+		"filterString": "FILTRAR"
+	},
+
+	"filterPage": {
+		"filterAppBarTitleString": "FILTRAR",
+		"cancelButtonString": "CANCELAR",
+		"applyButtonString": "APLICAR",
+		"priceString": "PRECIO",
+		"brandString": "MARCA",
+		"occasionString": "OCASIÓN"
+	},
+
+	"searchPage": {
+		"searchBrandString": "Búsqueda de marcas y productos",
+		"popularString": "POPULAR EN MYSTORE"
+	},
+
+	"productPage": {
+		"addToCartString": "AÑADIR AL CARRITO",
+		"addedToCartString": "Agregado al carrito",
+		"buyNowString": "COMPRA AHORA",
+		"allRatingString": "TODAS LAS CALIFICACIONES",
+		"addedtoWishlistString": "Añadido a la lista de deseos",
+		"removeFromWishlistString": "Eliminar de la lista de deseos",
+		"specialPriceString": "Precio especial",
+		"productDetailsString": "DETALLES DE PRODUCTO",
+		"productDescriptionString": "DESCRIPCIÓN DEL PRODUCTO",
+		"viewMoreString": "Ver más",
+		"similarProductsString": "PRODUCTOS SIMILARES",
+		"ratingString": "Calificaciones",
+		"sizeString": "TALLA",
+		"tipString": "Para un mejor ajuste, compre una talla más grande que su talla habitual.",
+		"colorString": "COLOR"
+	},
+
+	"aboutAppPage": {
+		"aboutAppAppBarTitle": "ACERCA DE LA APLICACIÓN MYSTORE"
+	},
+
+	"faqPage": {
+		"faqAppBarTitleString": "Preguntas frecuentes de MYSTORE"
+	},
+
+	"deliveryPage": {
+		"appBarTitleString": "ENTREGA",
+		"whereShippedString": "¿Dónde se envía su artículo pedido?",
+		"pinCodeString": "Código PIN",
+		"localityString": "Localidad",
+		"cityString": "Ciudad",
+		"stateString": "Estado",
+		"goToPaymentString": "IR AL PAGO"
+	},
+
+	"paymentPage": {
+		"appBarTitleString": "PAGO",
+		"choosePaymentMethodString": "Escoja su método de pago",
+		"creditDebitCardString": "Tarjeta de crédito / débito",
+		"cashOnDeliveryString": "Cash On Delivery",
+		"payString": "PAGAR",
+		"congratulationsString": "FELICIDADES",
+		"paymentReceived": "Su pago recibido."
+	},
+
+	"myAccountPage": {
+		"confirmString": "Confirmar",
+		"sureDialogueString": "¿Estás seguro de que quieres cerrar sesión?",
+		"closeString": "Cerca",
+		"logoutString": "Cerrar sesión",
+		"editProfileString": "Editar perfil",
+		"darkModeString": "Modo oscuro",
+		"changeLanguageString": "Cambiar idioma",
+		"notificationsString": "Notifications",
+		"myOrdersString": "Mis ordenes",
+		"accountSettingString": "Configuración de cuenta",
+		"faqString": "Preguntas más frecuentes",
+		"aboutAppString": "Acerca de la aplicación",
+		"callCenterString": "Centro de llamadas"
+	},
+
+	"accountSettingPage": {
+		"accSettingAppBarTitleString": "CONFIGURACIÓN DE CUENTA",
+		"accountString": "Cuenta",
+		"addressString": "Habla a",
+		"telephoneString": "Teléfono",
+		"emailString": "Email",
+		"settingString": "Ajuste",
+		"orderNotificationsString": "Notificaciones de pedidos",
+		"discountNotificationsString": "Notificaciones de descuento",
+		"creditCardString": "Tarjeta de crédito"
+	},
+
+	"cartPage": {
+		"soLightString": "¡Oye, se siente tan ligero!",
+		"nothingCartString": "No hay nada en tu carrito. Agreguemos algunos elementos.",
+		"addItemToCartString": "AÑADIR ARTÍCULO AL CARRITO",
+		"deleteString": "Eliminar",
+		"itemRemoved": "Elemento eliminado",
+		"totalString": "Total",
+		"payString": "PAGAR"
+	},
+
+	"myOrderPage": {
+		"outOfDeliveryString": "Fuera para entrega",
+		"shippedString": "Enviado",
+		"deliveredString": "Entregado",
+		"myOrdersAppBarTitleString": "MIS ORDENES",
+		"priceString": "Precio"
+	},
+
+	"notification": {
+		"notificationAppBarTitleString": "MIS NOTIFICACIONES",
+		"noNotificationsString": "No Notificaciones"
+	},
+
+	"wishlistPage": {
+		"wishListEmptyString": "LISTA DE DESEOS VACÍA",
+		"saveFavouritePieceString": "Guarde sus prendas de vestir favoritas en un solo lugar. Agregue ahora, compre más tarde.",
+		"continueShoppingString": "SEGUIR COMPRANDO",
+		"deleteString": "Eliminar",
+		"itemRemoved": "Elemento eliminado"
+	},
+
+	"callCenterPage": {
+		"callCenterAppBarTitleString": "Centro de llamadas",
+		"happyToHalpString": "¡Estamos felices de ayudarlo!",
+		"chatMeString": "Si tiene alguna queja sobre el producto, comuníquese conmigo.",
+		"chatMeButtonString": "CHÁRLEME"
+	},
+
+	"chatPage": {
+		"chatAppBarString": "CHARLA",
+		"noMessageString": "Ningún mensaje",
+		"typeMessageString": "Escribe un mensaje"
+	}
+}
