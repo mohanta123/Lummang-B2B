@@ -967,6 +967,7 @@ class _KYCPageState extends State<KYCPage> {
                                 // }
 
 
+
                                 if (shopname_controller.text.isEmpty) {
                                   ShowToast().showToast('Shop Name is empty');
                                 } else if (shopowner_controller.text.isEmpty) {
